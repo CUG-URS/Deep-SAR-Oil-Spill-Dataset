@@ -1,7 +1,7 @@
 # Deep-SAR-Oil-Spill-Dataset
 ```
 Deep-SAR Oil Spill (SOS) dataset 
-Baidu Drive (extraction code: urs6)：[download](http://cugurs5477.mikecrm.com/QaXx0Rw)
+Baidu Drive (extraction code: urs6)：http://cugurs5477.mikecrm.com/QaXx0Rw
 Google Drive：http://cugurs5477.mikecrm.com/5tk5gyO
 ```
 The dataset consists of two study areas and is mainly used for scientific purposes.
